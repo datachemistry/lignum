@@ -2,7 +2,7 @@
   {
     "path": "posts/2021-01-02-o-que-lignina/",
     "title": "O que é Lignina?",
-    "description": "Aqui descrevo o que é a Lignina e sua importância no cenário atual.",
+    "description": "A Lignina é uma macromolécula natural de origem vegetal, abundante e com pontecial para diversas aplicações.",
     "author": [
       {
         "name": "Thiago Yuki",
@@ -13,8 +13,8 @@
     "categories": [],
     "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-01-02T03:50:41-03:00",
-    "input_file": {}
+    "last_modified": "2021-01-02T03:54:02-03:00",
+    "input_file": "o-que-lignina.utf8.md"
   },
   {
     "path": "posts/welcome/",

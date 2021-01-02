@@ -1,6 +1,6 @@
 ---
 title: "O que é Lignina?"
-description: "Aqui descrevo o que é a Lignina e sua importância no cenário atual."
+description: "A Lignina é uma macromolécula natural de origem vegetal, abundante e com pontecial para diversas aplicações."
 author:
   - name: Thiago Yuki
     url: https://datachemistry.github.io/lignum/o-que-e-lignina
