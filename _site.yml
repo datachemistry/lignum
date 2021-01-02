@@ -2,6 +2,13 @@ name: "."
 title: "The Journey of a Scientist"
 description: |
   The Journey of a Scientist
+collections:
+  posts:
+    categories: true
+    categories_metadata: true
+    authors_metadata: true
+    disqus: Lignum-a-journey
+    share: [twitter, linkedin]
 output_dir: "docs"
 navbar:
   logo: images/Lignum.png

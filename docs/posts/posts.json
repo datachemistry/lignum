@@ -6,14 +6,17 @@
     "author": [
       {
         "name": "Thiago Yuki",
-        "url": "https://datachemistry.github.io/lignum/what-is-lignin"
+        "url": "https://github.com/datachemistry"
       }
     ],
     "date": "2021-01-02",
-    "categories": [],
+    "categories": [
+      "Review",
+      "Introduction"
+    ],
     "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-01-02T04:53:54-03:00",
+    "last_modified": "2021-01-02T12:15:41-03:00",
     "input_file": {}
   },
   {

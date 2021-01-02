@@ -1,9 +1,16 @@
 ---
 title: "What is Lignin?"
+categories:
+  - Review
+  - Introduction
 description: "Let's understand why lignin is gaining substantial importance in the academic and industrial areas."
 author:
-  - name: Thiago Yuki
-    url: https://datachemistry.github.io/lignum/what-is-lignin
+  - first_name: "Thiago"
+    last_name: "Yuki"
+    url: https://github.com/datachemistry
+    affiliation: University of São Paulo
+    affiliation_url: https://sites.usp.br/phdbioenergy/
+    orcid_id: 0000-0002-2476-3497
 date: 01-02-2021
 output:
   distill::distill_article:
