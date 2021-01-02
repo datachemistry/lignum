@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this blog",
+      "description": "Some additional details about the blog",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-01-02T03:29:42-03:00"
+    },
+    {
+      "path": "index.html",
+      "title": "The Journey of a Scientist",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-01-02T03:30:34-03:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}

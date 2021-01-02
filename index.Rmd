@@ -1,0 +1,5 @@
+---
+title: "The Journey of a Scientist"
+site: distill::distill_website
+listing: posts
+---
