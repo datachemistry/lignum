@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2021-01-02-o-que-lignina/",
+    "title": "O que é Lignina?",
+    "description": "Aqui descrevo o que é a Lignina e sua importância no cenário atual.",
+    "author": [
+      {
+        "name": "Thiago Yuki",
+        "url": "https://datachemistry.github.io/lignum/o-que-e-lignina"
+      }
+    ],
+    "date": "2021-01-02",
+    "categories": [],
+    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-01-02T03:44:44-03:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to The Journey of a Scientist",
     "description": "Welcome to our new blog, The Journey of a Scientist. We hope you enjoy \nreading what we have to say!",
