@@ -2,11 +2,13 @@ name: "."
 title: "The Journey of a Scientist"
 description: |
   The Journey of a Scientist
+base_url: https://datachemistry.github.io/lignum/
 collections:
   posts:
     categories: true
     categories_metadata: true
     authors_metadata: true
+    share: [twitter, linkedin, pinterest, facebook]
 output_dir: "docs"
 navbar:
   logo: images/Lignum.png

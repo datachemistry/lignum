@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:distill="https://distill.pub/journal/" version="2.0">
+  <channel>
+    <title>The Journey of a Scientist</title>
+    <link>https://datachemistry.github.io/lignum/</link>
+    <atom:link href="https://datachemistry.github.io/lignum/index.xml" rel="self" type="application/rss+xml"/>
+    <description>The Journey of a Scientist
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>sáb, 02 jan 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>What is Lignin?</title>
+      <dc:creator>Thiago Yuki</dc:creator>
+      <link>https://datachemistry.github.io/lignum/posts/2021-01-02-what-is-lignin</link>
+      <description>Let's understand why lignin is gaining substantial importance in the academic and industrial areas.</description>
+      <category>Review</category>
+      <guid>https://datachemistry.github.io/lignum/posts/2021-01-02-what-is-lignin</guid>
+      <pubDate>sáb, 02 jan 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Welcome to The Journey of a Scientist</title>
+      <dc:creator>Nora Jones</dc:creator>
+      <link>https://datachemistry.github.io/lignum/posts/welcome</link>
+      <description>Welcome to our new blog, The Journey of a Scientist. We hope you enjoy 
+reading what we have to say!</description>
+      <guid>https://datachemistry.github.io/lignum/posts/welcome</guid>
+      <pubDate>sáb, 02 jan 2021 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
