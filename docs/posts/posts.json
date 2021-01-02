@@ -1,20 +1,20 @@
 [
   {
-    "path": "posts/2021-01-02-o-que-lignina/",
-    "title": "O que é Lignina?",
-    "description": "A Lignina é uma macromolécula natural de origem vegetal, abundante e com pontecial para diversas aplicações.",
+    "path": "posts/2021-01-02-what-is-lignin/",
+    "title": "What is Lignin?",
+    "description": "Let's understand why lignin is gaining substantial importance in the academic and industrial areas.",
     "author": [
       {
         "name": "Thiago Yuki",
-        "url": "https://datachemistry.github.io/lignum/o-que-e-lignina"
+        "url": "https://datachemistry.github.io/lignum/what-is-lignin"
       }
     ],
     "date": "2021-01-02",
     "categories": [],
     "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-01-02T03:55:28-03:00",
-    "input_file": "o-que-lignina.utf8.md"
+    "last_modified": "2021-01-02T04:53:54-03:00",
+    "input_file": {}
   },
   {
     "path": "posts/welcome/",
@@ -30,7 +30,7 @@
     "categories": [],
     "contents": "\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-01-02T03:56:06-03:00",
-    "input_file": "welcome.utf8.md"
+    "last_modified": "2021-01-02T04:31:35-03:00",
+    "input_file": {}
   }
 ]
